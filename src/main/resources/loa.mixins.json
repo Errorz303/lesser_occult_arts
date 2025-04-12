@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "net.errorz.loa.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"client": [
+		"KeyboardInputMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

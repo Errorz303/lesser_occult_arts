@@ -1,0 +1,9 @@
+{
+  "parent": "loa:block/monolith_base",
+  "textures": {
+    "sided": "loa:block/monolith_sided",
+    "side": "loa:block/covenant_stone_side",
+    "top": "loa:block/covenant_stone_top",
+    "itself": "loa:block/monolith"
+  }
+}

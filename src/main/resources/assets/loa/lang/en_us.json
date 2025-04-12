@@ -1,0 +1,21 @@
+{
+  "item.loa.abyssal_crystal": "Abyssal Crystal",
+
+  "item.loa.covenant_dagger_unbound": "Covenant Dagger",
+  "item.loa.covenant_dagger_bound": "Covenant Dagger",
+  "item.loa.ritual_blade": "Ritual Blade",
+  "item.loa.greatsword_of_the_damned": "Greatsword Of The Damned",
+
+  "item.loa.abyssal_vessel": "Abyssal Vessel",
+  "item.loa.monarchs_seal": "Monarchs Seal",
+
+  "item.loa.abyssal_crown": "Abyssal Crown",
+
+
+  "loa.tooltip.bound": "Coven Bound",
+  "loa.tooltip.unbound": "Coven Unbound",
+
+  "block.loa.covenant_stone_block": "Covenant Stone",
+
+  "effect.loa.hexed": "Hexed"
+}
